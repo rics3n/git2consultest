@@ -1,4 +1,7 @@
 {
     "sample": "inside folder",
-    "helper": false
+    "helper": false,
+    "nested": {
+        "sample": "I am a nested value"
+    }
 }
